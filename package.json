@@ -1,0 +1,11 @@
+{
+  "name": "workflows-12-9-17",
+  "version": "0.0.1",
+  "description": "A project to show workflows for a second time",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Luc Van Dijck",
+  "license": "ISC"
+}
